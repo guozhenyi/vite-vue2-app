@@ -803,6 +803,11 @@ update-browserslist-db@^1.0.9:
     escalade "^3.1.1"
     picocolors "^1.0.0"
 
+vite-plugin-remove-console@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/vite-plugin-remove-console/-/vite-plugin-remove-console-1.1.0.tgz#bb7f00669004d25ac5bb8f45aff97612fef46f41"
+  integrity sha512-FZ0gLEsRqgHPCl+blHpT3h004+InKrGddmBXTfs7Cj/xWY7FdHpL9Zc9kgjxh8zIzjZ/MblsPDDEqg5BVHIXDA==
+
 vite@^2.9.0:
   version "2.9.15"
   resolved "https://registry.npmjs.org/vite/-/vite-2.9.15.tgz#2858dd5b2be26aa394a283e62324281892546f0b"
